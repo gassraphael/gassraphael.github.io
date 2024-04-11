@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en-gb/sitemap.xml</loc>
+    <loc>https://gassraphael.github.io/en-gb/sitemap.xml</loc>
     
       <lastmod>2024-04-08T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/fr/sitemap.xml</loc>
+    <loc>https://gassraphael.github.io/fr/sitemap.xml</loc>
     
       <lastmod>2024-04-08T00:00:00+00:00</lastmod>
     
