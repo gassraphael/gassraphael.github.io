@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Raphaël Gass</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Raphaël Gass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/pages/publications/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/publications/</guid>
+      
+      <description>Submitted journal papers An Advanced 1D Physics-Based Model for PEM Hydrogen Fuel Cells With Enhanced Overvoltage Prediction (1st author) In the Journal of Power Sources or in HAL (preprint). The aim of this study was to introduce the dynamic 1D model developed during my PhD, emphasizing the adjustment of the equations for this specific model and their numerical resolution. Furthermore, a novel theory is proposed to establish a physical relationship between the voltage drop at high currents, the quantity of liquid water in the cell, and operating conditions.</description>
+      
+    </item>
+    
+    <item>
+      <title>Raphaël Gass Biography</title>
+      <link>http://localhost:1313/pages/bio/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/bio/</guid>
+      
+      <description>Honorary distinctions 2023: Guo Konghui award, as best young author, at the 7th CAA International Conference on Vehicular Control and Intelligence, for the paper entitled A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells (Changsha, China) Graduate schools 2021-2024: PhD in automatics at Aix-Marseille University in LIS laboratory, and at Franche-Comté University at FEMTO-ST institute within the FCLab.
+Thesis subject: Advanced physical modeling of PEM fuel cells to enhance their performances.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

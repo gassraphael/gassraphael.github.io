@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Raphaël Gass</title>
+    <link>http://localhost:1313/fr-fr/</link>
+    <description>Recent content in Home on Raphaël Gass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/fr-fr/pages/publications/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr-fr/pages/publications/</guid>
+      
+      <description>Articles de journaux soumis An Advanced 1D Physics-Based Model for PEM Hydrogen Fuel Cells With Enhanced Overvoltage Prediction (1er auteur) Dans le Journal of Power Sources ou dans HAL (preprint). L&amp;rsquo;objectif de cette étude était d&amp;rsquo;introduire le modèle 1D dynamique développé pendant mon doctorat, en mettant l&amp;rsquo;accent sur l&amp;rsquo;ajustement des équations pour ce modèle spécifique et leur résolution numérique. De plus, une nouvelle théorie est proposée pour établir une relation physique entre la chute de tension à hauts courants, la quantité d&amp;rsquo;eau liquide dans la cellule et les conditions opératoires.</description>
+      
+    </item>
+    
+    <item>
+      <title>Biographie de Raphaël Gass</title>
+      <link>http://localhost:1313/fr-fr/pages/bio/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr-fr/pages/bio/</guid>
+      
+      <description>Distinctions honorifiques 2023 : Prix Guo Konghui, en tant que meilleur jeune auteur, lors de la 7ème Conférence Internationale sur le Contrôle et l&amp;rsquo;Intelligence des Véhicules, pour l&amp;rsquo;article intitulé A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells (Changsha, Chine) Études supérieures 2021-2024 : Doctorat en automatique à l&amp;rsquo;Université d&amp;rsquo;Aix-Marseille au laboratoire LIS, et à l&amp;rsquo;Université de Franche-Comté à l&amp;rsquo;institut FEMTO-ST au sein du FCLab.
+Sujet de thèse : Modélisation physique avancée des piles à combustible PEM pour améliorer leurs performances.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

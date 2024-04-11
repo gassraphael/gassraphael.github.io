@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Raphaël Gass</title>
+    <link>http://localhost:1313/fr/</link>
+    <description>Recent content in Home on Raphaël Gass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/fr/pages/articles/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/pages/articles/</guid>
+      
+      <description>Articles de journaux soumis An Advanced 1D Physics-Based Model for PEM Hydrogen Fuel Cells With Enhanced Overvoltage Prediction Dans le Journal of Power Sources ou dans HAL (preprint). Articles de journaux publiés 2024 A Critical Review of Proton Exchange Membrane Fuel Cells Matter Transports and Voltage Polarisation for Modelling Dans le Journal of the Electrochemical Society ou dans HAL (postprint). </description>
+      
+    </item>
+    
+    <item>
+      <title>Raphaël Gass Biography</title>
+      <link>http://localhost:1313/fr/pages/bio/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/pages/bio/</guid>
+      
+      <description>2021-2024: PhD in automatics at Aix-Marseille university in LIS laboratory and at Franche-Comté University at Femto-st within the FCLab. Thesis subject: Développement d&amp;rsquo;un modèle multi échelle et dégradé de la pile à combustible PEMFC, avec diagnostic de son état de dégradation et pronostic de sa durée de vie restante, pour des applications d&amp;rsquo;automatique. 2018-2021: Master degree in general engineering, with a double master degree in process engineering at Mines Saint-Etienne, from Mines-Telecom Institute (France).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

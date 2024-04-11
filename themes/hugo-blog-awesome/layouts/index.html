@@ -1,27 +1,55 @@
 <!DOCTYPE html>
+{{- $defaultColor := .Site.Params.defaultColor | default "auto" -}}
+
+{{/* allow website developer to enforce default dark mode */}}
+{{- if eq $defaultColor "dark" -}}
+<html lang="{{ .Site.LanguageCode }}" class="dark">
+{{- else if eq $defaultColor "light" -}}
+<html lang="{{ .Site.LanguageCode }}" class="light">
+{{- else -}}
 <html lang="{{ .Site.LanguageCode }}">
-    {{- partial "head.html" . -}}
-    <body data-theme = "{{ .Site.Params.defaultColor }}" class="notransition">
-        {{- partial "scriptsBodyStart.html" . -}}
-        {{- partial "header.html" . -}}
-        <div class="wrapper">
-            {{ partial "bio" . }}
-            <main aria-label="Content">
-                <h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
-                {{/* Show last 5 posts in reverse date order */}}
-                {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
-                {{ $posts := $pagesToShow.ByDate.Reverse }}
-                {{ range first 5 $posts }}
-                {{ partial "postCard" . }}
+{{- end -}}
+
+{{- partial "head.html" . -}}
+
+<body data-theme="{{ $defaultColor }}" class="notransition">
+    {{- partial "scriptsBodyStart.html" . -}}
+    {{- partial "header.html" . -}}
+    <div class="wrapper">
+        {{ partial "bio" . }}
+	<!-- Insérer le formulaire EmailOctopus -->
+        {{ if eq .Site.Language.Lang "en-gb" }}
+	<div class="newsletter-intro">
+	    <p>Stay updated with my latest publications delivered right to your inbox throughout the year.
+	    <br>Don't worry, I'll only send you a few emails annually.</p>
+	</div>
+	{{ else if eq .Site.Language.Lang "fr-fr" }}
+	<div class="newsletter-intro">
+	    <p>Restez à jour avec mes dernières publications envoyées directement dans votre boîte mail.
+	    <br>Ne vous inquiétez pas, je vous enverrai seulement quelques e-mails par an.</p>
+	</div>
+	{{ end }}
+        <script async src="https://eocampaign1.com/form/cf9cecae-f7f1-11ee-9392-afffdddf291a.js" data-form="cf9cecae-f7f1-11ee-9392-afffdddf291a"></script>
+        <!-- Fin du formulaire EmailOctopus -->
+        <!--<main aria-label="Content">
+            <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}</h3>
+            {{/* Show last 5 posts in reverse date order */}}
+            {{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+            {{ $posts := $pagesToShow.ByDate.Reverse }}
+            {{ range first 5 $posts }}
+            {{ partial "postCard" . }}
+            {{ end }}
+            {{ if gt (len $posts) 5 }}
+            <p>
+                {{ range $firstSection := (where .Site.Sections "Section" "in" (first 1 (.Site.Params.mainSections))) }}
+                <a href="{{ $firstSection.Permalink }}">{{ T "home.see_all_posts" }}</a>
                 {{ end }}
-                {{ if gt (len $posts) 5 }}
-                <p>
-                    <a href="/posts/">See all posts</a>
-                </p>
-                {{ end }}
-            </main>
-        </div>
-        {{- partial "footer.html" . -}}
-        {{- partial "scriptsBodyEnd.html" . -}}
-    </body>
+            </p>
+            {{ end }}
+        </main>-->
+    </div>
+    {{- partial "footer.html" . -}}
+    {{- partial "scriptsBodyEnd.html" . -}}
+</body> 
+
 </html>
