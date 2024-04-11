@@ -6,8 +6,8 @@
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/pages/publications/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/pages/publications/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,8 @@
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -32,8 +32,8 @@
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/pages/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/pages/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,8 +45,8 @@
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/pages/bio/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/pages/bio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,8 +57,8 @@
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/categories/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,8 +69,8 @@
     <loc>http://localhost:1313/posts/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/posts/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -81,8 +81,8 @@
     <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/fr-fr/tags/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"

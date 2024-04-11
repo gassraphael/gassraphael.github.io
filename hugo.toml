@@ -119,37 +119,37 @@ theme = "hugo-blog-awesome"
   
 
 ############################## French language ################################
-[Languages.fr-fr]
+[Languages.fr]
   languageName = "Français"
-  languageCode = "fr-fr"
+  languageCode = "fr"
   contentDir = "content/fr"
   weight = 2
 
-  [Languages.fr-fr.menu]
-  [[Languages.fr-fr.menu.main]]
+  [Languages.fr.menu]
+  [[Languages.fr.menu.main]]
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
     name = 'Accueil'
     url = '/'
     weight = 10
-#  [[Languages.fr-fr.menu.main]]
+#  [[Languages.fr.menu.main]]
 #    pageRef="posts"
 #    name = 'Posts'
 #    url = '/posts/'
 #    weight = 20
-  [[Languages.fr-fr.menu.main]]
+  [[Languages.fr.menu.main]]
     pageRef="publications"
     name = 'Publications'
     url = '/publications/'
     weight = 30  
-  [[Languages.fr-fr.menu.main]]
+  [[Languages.fr.menu.main]]
     pageRef="bio"
     name = 'Biographie'
     url = '/bio/'
     weight = 40
 
-[Languages.fr-fr.params]
+[Languages.fr.params]
   sitename = "Raphaël Gass"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
@@ -172,7 +172,7 @@ theme = "hugo-blog-awesome"
   # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
   # By default (or if nothing is specified), summary is used.
 
-[Languages.fr-fr.params.author]
+[Languages.fr.params.author]
   avatar = "avatar.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Raphaël Gass"
@@ -180,7 +180,7 @@ theme = "hugo-blog-awesome"
   description = "Ingénieur et Chercheur en Procédés pour l'Énergie"
 
 # Allow to override webmanifest options
-[Languages.fr-fr.params.webmanifest]
+[Languages.fr.params.webmanifest]
   name = "Raphaël Gass" # will use "params.sitename" or "title" by default
   short_name = "RG" # same as name
   start_url = "/" # will use homepage url by default
