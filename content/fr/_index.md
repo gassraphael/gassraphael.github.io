@@ -1,4 +1,4 @@
 ---
-title: "Home"
+title: "Accueil"
 author : "Raphaël Gass"
 ---
