@@ -7,7 +7,7 @@ author: Raphaël Gass
 	
 # Articles de journaux soumis
 - **An Advanced 1D Physics-Based Model for PEM Hydrogen Fuel Cells With Enhanced Overvoltage Prediction** (1er auteur)
-	- Dans le Journal of Power Sources ou dans [HAL](https://hal.science/hal-04530852) (preprint).
+	- Dans le journal eTransportation, dans [HAL](https://hal.science/hal-04530852) ou dans [SSRN](http://dx.doi.org/10.2139/ssrn.4812343) (preprint).
 	- L'objectif de cette étude était d'introduire le modèle 1D dynamique développé pendant mon doctorat, en mettant l'accent sur l'ajustement des équations pour ce modèle spécifique et leur résolution numérique. De plus, une nouvelle théorie est proposée pour établir une relation physique entre la chute de tension à hauts courants, la quantité d'eau liquide dans la cellule et les conditions opératoires.
 	
 # Articles de journaux publiés
