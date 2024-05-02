@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Raphaël Gass</title>
+    <link>https://gassraphael.github.io/es/pages/</link>
+    <description>Recent content in Pages on Raphaël Gass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gassraphael.github.io/es/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artículos</title>
+      <link>https://gassraphael.github.io/es/pages/publications/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://gassraphael.github.io/es/pages/publications/</guid>
+      
+      <description>Artículos de diarios sometidos An Advanced 1D Physics-Based Model for PEM Hydrogen Fuel Cells With Enhanced Overvoltage Prediction (1er autor) En la revista eTransportation, en HAL o en SSRN (preprint). El objetivo de este estudio fue introducir el modelo 1D dinámico desarrollado durante mi doctorado, enfocándose en el ajuste de ecuaciones para este modelo específico y su resolución numérica. Además, se propone una nueva teoría para establecer una relación física entre la caída de tensión en altas corrientes, la cantidad de agua líquida en la celda y las condiciones operativas.</description>
+      
+    </item>
+    
+    <item>
+      <title>Biografía de Raphaël Gass</title>
+      <link>https://gassraphael.github.io/es/pages/bio/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gassraphael.github.io/es/pages/bio/</guid>
+      
+      <description>Distinciones honoríficas 2023: Premio Guo Konghui, como mejor joven autor, en la 7ª Conferencia Internacional sobre Control e Inteligencia de Vehículos, por el artículo titulado A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells (Changsha, China) Estudios universitarios 2021-2024: Doctorado en automática en la Universidad de Aix-Marsella en el laboratorio LIS, y en la Universidad de Franche-Comté en el instituto FEMTO-ST dentro del FCLab.
+Tema de la tesis: Modelización física avanzada de pilas de combustible PEM para mejorar su rendimiento.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

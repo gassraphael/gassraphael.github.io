@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/pages/publications/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-gb"
                 href="https://gassraphael.github.io/pages/publications/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://gassraphael.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-gb"
                 href="https://gassraphael.github.io/pages/"
                 />
@@ -47,6 +62,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://gassraphael.github.io/fr/pages/bio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/pages/bio/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -62,6 +82,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-gb"
                 href="https://gassraphael.github.io/categories/"
                 />
@@ -74,6 +99,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-gb"
                 href="https://gassraphael.github.io/posts/"
                 />
@@ -83,6 +113,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://gassraphael.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://gassraphael.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
