@@ -14,7 +14,19 @@
       
       <guid>https://gassraphael.github.io/pages/publications/</guid>
       
-      <description>Submitted journal papers An Advanced 1D Physics-Based Model for PEM Hydrogen Fuel Cells With Enhanced Overvoltage Prediction (1st author) In the journal eTransportation, in HAL or in SSRN (preprint). The aim of this study was to introduce the dynamic 1D model developed during my PhD, emphasizing the adjustment of the equations for this specific model and their numerical resolution. Furthermore, a novel theory is proposed to establish a physical relationship between the voltage drop at high currents, the quantity of liquid water in the cell, and operating conditions.</description>
+      <description>&lt;h1 id=&#34;published-open-source-software&#34;&gt;Published open-source software&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AlphaPEM&lt;/strong&gt; (1st author)
+&lt;ul&gt;
+&lt;li&gt;Available on &lt;a href=&#34;https://github.com/gassraphael/AlphaPEM&#34;&gt;GitHub&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;This PEM fuel cell simulator, developed from research, aims to improve the real-time control of these converters in order to enhance their performance and lifespan. The software is designed to be collaborative, ensuring its development is as robust and rapid as possible. Any partnerships are therefore welcome.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;submitted-journal-papers&#34;&gt;Submitted journal papers&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;AlphaPEM: An Open-Source Dynamic 1D Physics-Based Pem Fuel Cell Model for Embedded Applications&lt;/strong&gt; (1st author)&lt;/p&gt;</description>
       
     </item>
     
@@ -25,8 +37,18 @@
       
       <guid>https://gassraphael.github.io/pages/bio/</guid>
       
-      <description>Honorary distinctions 2023: Guo Konghui award, as best young author, at the 7th CAA International Conference on Vehicular Control and Intelligence, for the paper entitled A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells (Changsha, China) Graduate schools 2021-2024: PhD in automatics at Aix-Marseille University in LIS laboratory, and at Franche-Comté University at FEMTO-ST institute within the FCLab.
-Thesis subject: Advanced physical modeling of PEM fuel cells to enhance their performances.</description>
+      <description>&lt;h1 id=&#34;honorary-distinctions&#34;&gt;Honorary distinctions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;2023: &lt;strong&gt;&lt;a href=&#34;../resources/Guo_Konghui_award.pdf&#34;&gt;Guo Konghui award&lt;/a&gt;&lt;/strong&gt;, as best young author, at the &lt;a href=&#34;http://www.ascl.jlu.edu.cn/vci/cvci2023.htm&#34;&gt;7th CAA International Conference on Vehicular Control and Intelligence&lt;/a&gt;, for the paper entitled &lt;a href=&#34;https://ieeexplore.ieee.org/document/10397331&#34;&gt;A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells&lt;/a&gt; (Changsha, China)
+&lt;ul&gt;
+&lt;li&gt;&lt;img alt=&#34;Guo Konghui award ceremony&#34; src=&#34;../resources/Guo_Konghui_award_ceremony.jpg&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;graduate-schools&#34;&gt;Graduate schools&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2021-2024: &lt;strong&gt;PhD&lt;/strong&gt; in automatics at &lt;a href=&#34;https://www.univ-amu.fr/&#34;&gt;Aix-Marseille University&lt;/a&gt; in &lt;a href=&#34;https://www.lis-lab.fr/&#34;&gt;LIS&lt;/a&gt; laboratory, and at &lt;a href=&#34;https://www.univ-fcomte.fr/&#34;&gt;Franche-Comté University&lt;/a&gt; at &lt;a href=&#34;https://www.femto-st.fr/en&#34;&gt;FEMTO-ST&lt;/a&gt; institute within the &lt;a href=&#34;https://www.fclab.fr/&#34;&gt;FCLab&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
