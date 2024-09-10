@@ -6,8 +6,7 @@ author: Raphaël Gass
 ---
 	
 # Published open-source software
-- **AlphaPEM** (1st author)
-    - Available on [GitHub](https://github.com/gassraphael/AlphaPEM).
+- **AlphaPEM**, available on [GitHub](https://github.com/gassraphael/AlphaPEM) (1st author)
     - This PEM fuel cell simulator, developed from research, aims to improve the real-time control of these converters in order to enhance their performance and lifespan. The software is designed to be collaborative, ensuring its development is as robust and rapid as possible. Any partnerships are therefore welcome.	
 	
 # Submitted journal papers

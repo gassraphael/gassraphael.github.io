@@ -6,8 +6,7 @@ author: Raphaël Gass
 ---
 
 # Software de código abierto publicado
-- **AlphaPEM** (primer autor)
-    - Disponible en [GitHub](https://github.com/gassraphael/AlphaPEM).
+- **AlphaPEM**, disponible en [GitHub](https://github.com/gassraphael/AlphaPEM) (primer autor)
     - Este simulador de pila de combustible PEM, desarrollado a partir de investigaciones, tiene como objetivo mejorar el control en tiempo real de estos convertidores para optimizar su rendimiento y prolongar su vida útil. El software está diseñado para ser colaborativo, asegurando que su desarrollo sea lo más robusto y rápido posible. Por lo tanto, cualquier colaboración es bienvenida.
     
 # Artículos de diarios sometidos
