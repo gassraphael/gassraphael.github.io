@@ -21,7 +21,7 @@ author: Raphaël Gass
 # Artículos de diarios publicados
 ## 2024
 - **A Critical Review of Proton Exchange Membrane Fuel Cells Matter Transports and Voltage Polarisation for Modelling** (1er autor)
-    - En el [Journal of the Electrochemical Society](https://doi.org/10.1149/1945-7111/ad305a) o en [HAL](https://hal.science/hal-04493419) (postprint).
+    - En el [Journal of the Electrochemical Society](https://doi.org/10.1149/1945-7111/ad305a), en [arXiv](https://arxiv.org/abs/2410.13323) o en [HAL](https://hal.science/hal-04493419) (postprint).
     - El objetivo de este trabajo fue compilar, en un solo artículo, todas las ecuaciones necesarias para la modelización física de una pila de combustible. Cada ecuación está complementada con explicaciones, un análisis crítico y sugerencias para posibles mejoras.
 
 
