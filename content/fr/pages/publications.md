@@ -29,4 +29,9 @@ author: Raphaël Gass
 - **A Critical Review of Proton Exchange Membrane Fuel Cells Matter Transports and Voltage Polarisation for Modelling** (1er auteur)
 	- Dans le [Journal of the Electrochemical Society](https://doi.org/10.1149/1945-7111/ad305a), dans [arXiv](https://arxiv.org/abs/2410.13323) ou dans [HAL](https://hal.science/hal-04493419) (postprint).
 	- L'objectif de ce travail était de compiler, dans un seul article, toutes les équations nécessaires à la modélisation physique d'une pile à combustible. Chaque équation est complétée par des explications, une analyse critique et des suggestions pour d'éventuelles améliorations.
+	
+# Manuscrit de thèse publié (2024)
+- **Modélisation physique avancée des piles à combustible PEM pour améliorer leurs performances** (1er auteur)  
+  	- Disponible sur [HAL](https://hal.science/tel-04923016) (version finale).  
+  	- L'objectif de cette thèse était de développer un modèle avancé des PEMFC afin d'optimiser leur contrôle et d'améliorer leurs performances. Un modèle 1D, dynamique, biphasique et isotherme a été proposé, conduisant au développement du logiciel open-source AlphaPEM, qui permet des simulations précises et facilite la mise en oeuvre de stratégies de contrôle prédictif pour optimiser le fonctionnement des piles à combustible.
 
