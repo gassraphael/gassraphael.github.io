@@ -29,5 +29,5 @@ author: Raphaël Gass
 
 # Published thesis manuscript (2024)
 - **Advanced physical modeling of PEM fuel cells to enhance their performances** (1st author)
-		- In [HAL](https://hal.science/tel-04923016) (final version).
-		- The objective of this thesis was to develop an advanced model for PEMFCs to optimize their control and improve performance. A 1D, dynamic, two-phase, isothermal model was proposed, leading to the development of the open-source software AlphaPEM, which enables accurate simulations and facilitates predictive control strategies for enhanced fuel cell operation.
+	- In [HAL](https://hal.science/tel-04923016) (final version).
+	- The objective of this thesis was to develop an advanced model for PEMFCs to optimize their control and improve performance. A 1D, dynamic, two-phase, isothermal model was proposed, leading to the development of the open-source software AlphaPEM, which enables accurate simulations and facilitates predictive control strategies for enhanced fuel cell operation.
