@@ -15,6 +15,7 @@ author: Raphaël Gass
 
 - 2021-2024: **PhD** in automatics at [Aix-Marseille University](https://www.univ-amu.fr/) in [LIS](https://www.lis-lab.fr/) laboratory, and at [Franche-Comté University](https://www.univ-fcomte.fr/) at [FEMTO-ST](https://www.femto-st.fr/en) institute within the [FCLab](https://www.fclab.fr/).
 	- Thesis subject: Advanced physical modeling of PEM fuel cells to enhance their performances.
+	- The [defense report](../resources/Defense_report.pdf) and the [reports](../resources/Merged_reports.pdf) on the thesis manuscript are available here.
 
 - 2018-2021: **Master degree** in general engineering, with a double master degree in process engineering at [Mines Saint-Etienne](https://www.mines-stetienne.fr/), from [Mines-Telecom Institute](https://www.imt.fr/) (Saint-Étienne, France).
 	- The certification of the diploma can be obtained through the [Mines Saint-Etienne Alumni webpage](https://mines-saint-etienne.org/fr/addressbook/fullsearch/index).
