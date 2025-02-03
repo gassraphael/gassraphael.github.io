@@ -7,7 +7,7 @@ author: Raphaël Gass
 
 # Honorary distinctions
 
-- 2023: **[Guo Konghui award](../../resources/Guo_Konghui_award.pdf)**, as best young author, at the [7th CAA International Conference on Vehicular Control and Intelligence](http://www.ascl.jlu.edu.cn/vci/cvci2023.htm), for the paper entitled [A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells](https://ieeexplore.ieee.org/document/10397331) (Changsha, China)
+- 2023: **[Guo Konghui award](resources/Guo_Konghui_award.pdf)**, as best young author, at the [7th CAA International Conference on Vehicular Control and Intelligence](http://www.ascl.jlu.edu.cn/vci/cvci2023.htm), for the paper entitled [A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells](https://ieeexplore.ieee.org/document/10397331) (Changsha, China)
 	- ![Guo Konghui award ceremony](../../resources/Guo_Konghui_award_ceremony.jpg)
 
 
