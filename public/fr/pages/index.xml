@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Raphaël Gass</title>
-    <link>http://localhost:1313/fr/pages/</link>
+    <link>https://gassraphael.github.io/fr/pages/</link>
     <description>Recent content in Pages on Raphaël Gass</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gassraphael.github.io/fr/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/fr/pages/publications/</link>
+      <link>https://gassraphael.github.io/fr/pages/publications/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/pages/publications/</guid>
+      <guid>https://gassraphael.github.io/fr/pages/publications/</guid>
       
       <description>&lt;h1 id=&#34;logiciels-libres-publiés&#34;&gt;Logiciels libres publiés&lt;/h1&gt;
 &lt;ul&gt;
@@ -33,16 +33,16 @@
     
     <item>
       <title>Biographie de Raphaël Gass</title>
-      <link>http://localhost:1313/fr/pages/bio/</link>
+      <link>https://gassraphael.github.io/fr/pages/bio/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/pages/bio/</guid>
+      <guid>https://gassraphael.github.io/fr/pages/bio/</guid>
       
       <description>&lt;h1 id=&#34;distinctions-honorifiques&#34;&gt;Distinctions honorifiques&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;2023 : &lt;strong&gt;&lt;a href=&#34;../resources/Guo_Konghui_award.pdf&#34;&gt;Prix Guo Konghui&lt;/a&gt;&lt;/strong&gt;, en tant que meilleur jeune auteur, lors de la &lt;a href=&#34;http://www.ascl.jlu.edu.cn/vci/cvci2023.htm&#34;&gt;7ème Conférence Internationale sur le Contrôle et l&amp;rsquo;Intelligence des Véhicules&lt;/a&gt;, pour l&amp;rsquo;article intitulé &lt;a href=&#34;https://ieeexplore.ieee.org/document/10397331&#34;&gt;A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells&lt;/a&gt; (Changsha, Chine)
+&lt;li&gt;2023 : &lt;strong&gt;&lt;a href=&#34;../../resources/Guo_Konghui_award.pdf&#34;&gt;Prix Guo Konghui&lt;/a&gt;&lt;/strong&gt;, en tant que meilleur jeune auteur, lors de la &lt;a href=&#34;http://www.ascl.jlu.edu.cn/vci/cvci2023.htm&#34;&gt;7ème Conférence Internationale sur le Contrôle et l&amp;rsquo;Intelligence des Véhicules&lt;/a&gt;, pour l&amp;rsquo;article intitulé &lt;a href=&#34;https://ieeexplore.ieee.org/document/10397331&#34;&gt;A 1-D 2-phase control-oriented mass transfer model of PEM fuel cells&lt;/a&gt; (Changsha, Chine)
 &lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;../resources/Guo_Konghui_award_ceremony.jpg&#34; alt=&#34;Cérémonie de remise du prix Guo Konghui&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;../../resources/Guo_Konghui_award_ceremony.jpg&#34; alt=&#34;Cérémonie de remise du prix Guo Konghui&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -52,7 +52,7 @@
 &lt;p&gt;2021-2024 : &lt;strong&gt;Doctorat&lt;/strong&gt; en automatique à l&amp;rsquo;&lt;a href=&#34;https://www.univ-amu.fr/&#34;&gt;Université d&amp;rsquo;Aix-Marseille&lt;/a&gt; au laboratoire &lt;a href=&#34;https://www.lis-lab.fr/&#34;&gt;LIS&lt;/a&gt;, et à l&amp;rsquo;&lt;a href=&#34;https://www.univ-fcomte.fr/&#34;&gt;Université de Franche-Comté&lt;/a&gt; à l&amp;rsquo;institut &lt;a href=&#34;https://www.femto-st.fr/en&#34;&gt;FEMTO-ST&lt;/a&gt; au sein du &lt;a href=&#34;https://www.fclab.fr/&#34;&gt;FCLab&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sujet de thèse : Modélisation physique avancée des piles à combustible PEM pour améliorer leurs performances.&lt;/li&gt;
-&lt;li&gt;Le &lt;a href=&#34;../resources/Defense_report.pdf&#34;&gt;rapport&lt;/a&gt; de soutenance de thèse et les &lt;a href=&#34;../resources/Merged_reports.pdf&#34;&gt;rapports&lt;/a&gt; sur le manuscrit de thèse sont ici disponibles.&lt;/li&gt;
+&lt;li&gt;Le &lt;a href=&#34;../../resources/Defense_report.pdf&#34;&gt;rapport&lt;/a&gt; de soutenance de thèse et les &lt;a href=&#34;../../resources/Merged_reports.pdf&#34;&gt;rapports&lt;/a&gt; sur le manuscrit de thèse sont ici disponibles.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
