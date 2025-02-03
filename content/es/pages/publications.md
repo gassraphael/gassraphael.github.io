@@ -28,8 +28,8 @@ author: Raphaël Gass
     
 # Manuscrito de tesis publicado (2024)
 - **Modelado físico avanzado de pilas de combustible PEM para mejorar su rendimiento** (primer autor)
-		- En [HAL](https://hal.science/tel-04923016) (versión final).
-		- El objetivo de esta tesis fue desarrollar un modelo avanzado para las PEMFC con el fin de optimizar su control y mejorar su rendimiento. Se propuso un modelo 1D, dinámico, bifásico e isotérmico, lo que llevó al desarrollo del software de código abierto AlphaPEM, que permite simulaciones precisas y facilita estrategias de control predictivo para una operación mejorada de las pilas de combustible.
+	- En [HAL](https://hal.science/tel-04923016) (versión final).
+	- El objetivo de esta tesis fue desarrollar un modelo avanzado para las PEMFC con el fin de optimizar su control y mejorar su rendimiento. Se propuso un modelo 1D, dinámico, bifásico e isotérmico, lo que llevó al desarrollo del software de código abierto AlphaPEM, que permite simulaciones precisas y facilita estrategias de control predictivo para una operación mejorada de las pilas de combustible.
 
 
 

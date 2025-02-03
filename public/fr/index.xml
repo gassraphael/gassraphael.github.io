@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Raphaël Gass</title>
-    <link>https://gassraphael.github.io/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content in Accueil on Raphaël Gass</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gassraphael.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>https://gassraphael.github.io/fr/pages/publications/</link>
+      <link>http://localhost:1313/fr/pages/publications/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://gassraphael.github.io/fr/pages/publications/</guid>
+      <guid>http://localhost:1313/fr/pages/publications/</guid>
       
       <description>&lt;h1 id=&#34;logiciels-libres-publiés&#34;&gt;Logiciels libres publiés&lt;/h1&gt;
 &lt;ul&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Biographie de Raphaël Gass</title>
-      <link>https://gassraphael.github.io/fr/pages/bio/</link>
+      <link>http://localhost:1313/fr/pages/bio/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://gassraphael.github.io/fr/pages/bio/</guid>
+      <guid>http://localhost:1313/fr/pages/bio/</guid>
       
       <description>&lt;h1 id=&#34;distinctions-honorifiques&#34;&gt;Distinctions honorifiques&lt;/h1&gt;
 &lt;ul&gt;
