@@ -37,6 +37,7 @@ author: Raphaël Gass
 - 2021-2024: **Doctorado** en automática en la [Universidad de Aix-Marsella](https://www.univ-amu.fr/) en el laboratorio [LIS](https://www.lis-lab.fr/), y en la [Universidad de Franche-Comté](https://www.univ-fcomte.fr/) en el instituto [FEMTO-ST](https://www.femto-st.fr/en) dentro del [FCLab](https://www.fclab.fr/).
     - Tema de la tesis: Modelización física avanzada de pilas de combustible PEM para mejorar su rendimiento.
     - El [informe](https://gassraphael.github.io/resources/Defense_report.pdf) de la defensa de la tesis y los [informes](https://gassraphael.github.io/resources/Merged_reports.pdf) sobre el manuscrito de la tesis están disponibles aquí.
+    - ![Defensa de tesis](https://gassraphael.github.io/resources/PhD_defense.jpg)
 
 - 2018-2021: **Diploma de ingeniero** generalista, con doble diploma en ingeniería de procesos en [Mines Saint-Étienne](https://www.mines-stetienne.fr/), de [Institut Mines-Télécom](https://www.imt.fr/) (Saint-Étienne, Francia).
     - La certificación del diploma se puede obtener a través de la [página web de Mines Saint-Étienne Alumni](https://mines-saint-etienne.org/fr/addressbook/fullsearch/index).
