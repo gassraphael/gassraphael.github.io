@@ -268,7 +268,7 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:raphael.gass@femto-st.fr"
+url = "mailto:raphael.gass@univ-reunion.fr"
 
 [[params.socialIcons]]
 name = "orcid"
