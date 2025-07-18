@@ -84,7 +84,7 @@ theme = "hugo-blog-awesome"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Energy Process Engineer and Researcher"
+  description = "Hydrogen-Energy Researcher"
   mainSections = ['articles']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -106,7 +106,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Raphaël Gass"
   name = "Raphaël Gass"
-  description = "Energy Process Engineer and Researcher"
+  description = "Hydrogen-Energy Researcher"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -155,7 +155,7 @@ theme = "hugo-blog-awesome"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Ingénieur et Chercheur en Procédés pour l'Énergie"
+  description = "Chercheur en hydrogène-énergie"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -177,7 +177,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Raphaël Gass"
   name = "Raphaël Gass"
-  description = "Ingénieur et Chercheur en Procédés pour l'Énergie"
+  description = "Chercheur en hydrogène-énergie"
 
 # Allow to override webmanifest options
 [Languages.fr.params.webmanifest]
@@ -226,7 +226,7 @@ theme = "hugo-blog-awesome"
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Ingeniero e Investigador en Procesos para la Energía"
+  description = "Investigador en energía de hidrógeno"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -248,7 +248,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Raphaël Gass"
   name = "Raphaël Gass"
-  description = "Ingeniero e Investigador en Procesos para la Energía"
+  description = "Investigador en energía de hidrógeno"
 
 # Allow to override webmanifest options
 [Languages.es.params.webmanifest]
