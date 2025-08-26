@@ -15,7 +15,7 @@ author: Raphaël Gass
 - 2025 - 2027 : **Chercheur postdoctoral** en simulation de piles à combustible PEM à l'[Université de La Réunion](https://www.univ-reunion.fr/) au laboratoire [Energy-Lab](https://www.energylab.re/).  
    - Partenariat: [institut ZSW](https://www.zsw-bw.de/) à Ulm en Allemagne. 
    - Projet : Optimisation des performances et de la durabilité des systèmes hydrogène à partir
-d’un jumeau numérique avancé (OPUS-H2).
+d’un jumeau numérique avancé ([OPUS-H2](https://www.energylab.re/projets/projets-en-cours/opus-h2/)).
    - Financements : européen FEDER et contreparties nationales.
   
 - 2021 - 2024 : **Doctorat** en automatique à l'[Université d'Aix-Marseille](https://www.univ-amu.fr/) au laboratoire [LIS](https://www.lis-lab.fr/).

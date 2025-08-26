@@ -13,7 +13,7 @@ author: Raphaël Gass
 # Professional Experience
 - 2025 - 2027: **Postdoctoral Researcher** in PEM fuel cell simulation at [University of Reunion island](https://www.univ-reunion.fr/) at the [Energy-Lab](https://www.energylab.re/).
   - Partnership: [ZSW Institute](https://www.zsw-bw.de/) in Ulm, Germany.
-  - Project: Optimization of the performance and durability of hydrogen systems using an advanced digital twin (OPUS-H2).
+  - Project: Optimization of the performance and durability of hydrogen systems using an advanced digital twin ([OPUS-H2](https://www.energylab.re/projets/projets-en-cours/opus-h2/)).
   - Funding: European FEDER and national counterparts.
 
 - 2021 - 2024: **PhD** in control engineering at [Aix-Marseille University](https://www.univ-amu.fr/) at the [LIS Laboratory](https://www.lis-lab.fr/).
